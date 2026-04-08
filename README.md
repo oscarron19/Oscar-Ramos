@@ -58,8 +58,8 @@ Implementación y soporte de sistemas de bodega
 
 ## 🌐 Contacto
 - Web: https://www.kabax.cl  
-- Email: (tu correo)  
-- LinkedIn: (tu perfil)  
+- Email: oramos@kabax.cl   
+- LinkedIn: linkedin.com/in/oscarramost
 
 ---
 
